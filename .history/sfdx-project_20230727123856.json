@@ -5,7 +5,7 @@
       "default": true,
       "package": "GIFter",
       "versionName": "ver 0.1",
-      "versionNumber": "1.1.0.NEXT",
+      "versionNumber": "0.1.0.NEXT",
       "versionDescription": "Using GIPHY to find GIFs and post to Chatter"
     }
   ],
@@ -14,7 +14,6 @@
   "sourceApiVersion": "55.0",
   "packageAliases": {
     "GIFter": "0Ho7R000000XZLASA4",
-    "GIFter@0.1.0-1": "04t7R000001ZO0UQAW",
-    "GIFter@1.1.0-1": "04t7R000001ZO0ZQAW"
+    "GIFter@0.1.0-1": "04t7R000001ZO0UQAW"
   }
 }
